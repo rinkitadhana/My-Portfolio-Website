@@ -4,7 +4,6 @@ import { FaRegPlayCircle } from "react-icons/fa"
 import { FaCss3Alt, FaGitAlt, FaGithub } from "react-icons/fa6"
 import { IoLogoNodejs } from "react-icons/io5"
 import {
-  RiHtml5Fill,
   RiJavaLine,
   RiNextjsLine,
   RiReactjsLine,
